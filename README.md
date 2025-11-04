@@ -3,7 +3,7 @@
 ## GithubPage: https://duong300804.github.io/WebPhimAnh/
 
 ### Đăng nhập bằng account: 
-username: abc
+username: abc / 
 pass: 123456
 
 Website cung cấp thông tin chi tiết về phim ảnh sử dụng dữ liệu từ TMDB API.
@@ -34,15 +34,21 @@ Giao diện được thiết kế hiện đại, thân thiện, hỗ trợ tìm 
 
 <img width="1903" height="907" alt="Image" src="https://github.com/user-attachments/assets/69e55c28-d083-476c-bdd2-fc1b4e48eb86" />
 
+
 <img width="1899" height="857" alt="Image" src="https://github.com/user-attachments/assets/f9907120-b4b3-4f33-bcd1-a2cc2b71cfbf" />
+
 
 <img width="1897" height="807" alt="Image" src="https://github.com/user-attachments/assets/ad3670b2-5391-4ce6-881a-94b42aa3c068" />
 
+
 <img width="1900" height="624" alt="Image" src="https://github.com/user-attachments/assets/539854f3-1902-4a44-a308-81c6c6ab495e" />
+
 
 <img width="1902" height="910" alt="Image" src="https://github.com/user-attachments/assets/f6e9f461-222f-4378-bc14-425cdbcbde18" />
 
+
 <img width="1904" height="910" alt="Image" src="https://github.com/user-attachments/assets/a8ea439f-1ac3-4708-a917-549bb22d42b6" />
+
 
 <img width="1904" height="906" alt="Image" src="https://github.com/user-attachments/assets/ccb35697-18e2-4c4c-bde1-c4ba14aefdae" />
 
