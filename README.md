@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# WebThongTinPhimAnh
+# 🎬 Website Thông Tin Phim Ảnh – Movie Info Hub
+## GithubPage: https://duong300804.github.io/WebPhimAnh/
+Website cung cấp thông tin chi tiết về phim ảnh sử dụng dữ liệu từ TMDB API.
+Người dùng có thể xem thông tin phim bao gồm poster, trailer, mô tả, thể loại, đánh giá, cùng nhiều tính năng hiện đại.
+Giao diện được thiết kế hiện đại, thân thiện, hỗ trợ tìm kiếm nhanh và lọc phim theo danh mục.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Tính năng nổi bật
 
-## Available Scripts
+🎥 Xem danh sách phim đang chiếu, sắp chiếu, phổ biến
+🔍 Tìm kiếm phim theo tên, diễn viên, đạo diễn
+🏷️ Lọc phim theo thể loại, năm phát hành, đánh giá
+📺 Xem trailer trực tiếp trên trang
+⭐ Xem đánh giá, điểm số từ TMDB và người dùng
+📊 Theo dõi lượt truy cập, phim được xem nhiều
+⚙️ Quản lý API key, cache dữ liệu
+🔔 Cập nhật tự động phim mới từ TMDB
 
-In the project directory, you can run:
+## 🛠️ Công nghệ sử dụng
 
-### `npm start`
+| Công nghệ        | Mô tả                              |
+|------------------|-------------------------------------|
+| ReactJS      | Xây dựng giao diện động và tương tác             |
+| Redux      | Quản lý trạng thái toàn cục ứng dụng     |
+| Tailwind CSS / CSS | Thiết kế giao diện |
+| TMDB API  | Nguồn dữ liệu phim ảnh chính thức |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📷 Một số hình ảnh giao diện
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1903" height="907" alt="Image" src="https://github.com/user-attachments/assets/69e55c28-d083-476c-bdd2-fc1b4e48eb86" />
 
-### `npm test`
+<img width="1899" height="857" alt="Image" src="https://github.com/user-attachments/assets/f9907120-b4b3-4f33-bcd1-a2cc2b71cfbf" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1897" height="807" alt="Image" src="https://github.com/user-attachments/assets/ad3670b2-5391-4ce6-881a-94b42aa3c068" />
 
-### `npm run build`
+<img width="1900" height="624" alt="Image" src="https://github.com/user-attachments/assets/539854f3-1902-4a44-a308-81c6c6ab495e" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 👨‍💻 Lập trình viên
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 💼 Họ tên: Lê Trọng Hải Dương
+- 📧 Email: haiduong300804@gmail.com
+- 🌐 GitHub: https://github.com/Duong300804
