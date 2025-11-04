@@ -2,7 +2,7 @@
   "name": "movie-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://duong300804.github.io/WebPhimAnh",
+  "homepage": "https://duong300804.github.io/WebPhimAnh/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.0",
