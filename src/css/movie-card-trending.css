@@ -1,0 +1,33 @@
+.movie-card-trending .trending-info {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 0.2rem;
+}
+
+.movie-card-trending .trending-rank {
+    line-height: 1;
+    flex-shrink: 0;
+    font-family: "Segoe UI", sans-serif;
+    color: #ff0000;
+    font-weight: 900;
+    font-size: 50px;
+    font-style: italic;
+    z-index: 5;
+    -webkit-text-stroke: 0.1rem rgb(255, 255, 255);
+    text-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.5);
+}
+
+.movie-card-trending .movie-subtitle {
+    font-size: 20px;
+    color: #ccc;
+    white-space: nowrap;
+    line-height: 1.2; 
+}
+
+.movie-card-trending .movie-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    flex: 1;  
+}

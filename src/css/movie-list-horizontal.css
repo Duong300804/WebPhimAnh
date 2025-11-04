@@ -1,0 +1,9 @@
+.movie-list-horizontal .horizontal-slide {
+  width: 480px; 
+}
+
+@media screen and (max-width: 768px) {
+  .movie-list-horizontal .horizontal-slide {
+    width: 90%;
+  }
+}

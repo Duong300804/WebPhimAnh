@@ -1,0 +1,19 @@
+.section_page {
+  padding: 140px 20px 40px;
+  margin: 0 auto;
+  max-width: 1800px;
+}
+
+.section__header_page {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  text-align: center;
+}
+
+.section__header_page h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,11 @@
+.recently-watched-page {
+  padding: 130px 130px 130px;
+  min-height: 100vh;
+}
+
+.recently-watched-title {
+    padding-bottom: 20px;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}

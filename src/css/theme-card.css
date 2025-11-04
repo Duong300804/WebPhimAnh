@@ -1,0 +1,35 @@
+.theme-card {
+  width: 400px;
+  height: 225px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.theme-card:hover {
+  transform: scale(1.05);
+}
+
+.theme-card__overlay {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: #fff;
+}
+
+.theme-card__title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+.theme-card__link {
+  font-size: 18px;
+  color: #ccc;
+}

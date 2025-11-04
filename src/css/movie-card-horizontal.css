@@ -1,0 +1,50 @@
+.movie-card-horizontal {
+  display: block;
+  border-radius: 12px;
+  overflow: hidden;
+  color: white;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.movie-card-horizontal:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.card-horizontal-bg {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  border-radius: 12px;
+}
+
+.card-horizontal-overlay {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 12px;
+}
+
+.card-horizontal-poster {
+  height: 100%;
+  border-radius: 8px;
+  margin-right: 12px;
+}
+
+.card-horizontal-info {
+  flex: 1;
+}
+
+.card-horizontal-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.card-horizontal-info p {
+  margin: 4px 0;
+  font-size: 0.9rem;
+  color: #ccc;
+}

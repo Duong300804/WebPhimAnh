@@ -1,0 +1,23 @@
+.list-detail-grid {
+  display: grid;
+   grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  padding: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Responsive padding adjustment */
+@media (max-width: 768px) {
+  .list-detail-grid {
+    padding: 12px;
+    gap: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .list-detail-grid {
+    grid-template-columns: 1fr;
+    padding: 8px;
+  }
+}
